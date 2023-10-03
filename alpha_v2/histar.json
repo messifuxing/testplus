@@ -10,6 +10,12 @@
         "url": "${pageNumber}",
         "javascript": "buildMedias"
       },
+	  {
+        "key": "sports",
+        "title": "体育",
+        "url": "${pageNumber}-体育",
+        "javascript": "buildMedias"
+      },
       {
         "key": "movie",
         "title": "电影",
