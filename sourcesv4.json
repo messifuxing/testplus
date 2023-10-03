@@ -64,24 +64,6 @@
         "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/histar.json"
     },
 	{
-        "id": "219e7e12-51d4-4e62-9707-7307dc5ca7ff",
-        "Top": true,
-        "note": "海外華人免費影視大全",
-        "GEO": "Non-China",
-        "Search": true,
-        "name": "星视界體育直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/messifuxing/testplus/main/alpha_v2/histar.sport.json"
-    },
-	{
-        "id": "219e7e12-51d4-4e62-9707-7307dc5ca7ff",
-        "Top": true,
-        "note": "海外華人免費影視大全",
-        "GEO": "Non-China",
-        "Search": true,
-        "name": "88體育直播",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/messifuxing/testplus/main/alpha_v2/88.json"
-    },
-	{
         "id": "9ac32fd6-0734-468b-8afc-257b02f30bd8",
         "Top": true,
         "note": "1080P 3M",
