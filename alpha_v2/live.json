@@ -1,0 +1,24 @@
+{
+    "name": "電視直播",
+    "description": "星視界電視直播",
+    "host": "https://www.histar.tv/live",
+    "files": ["util.js","histar.min.js"],
+    "pages": [
+      {
+        "key": "index",
+        "title": "最近更新",
+        "url": "${pageNumber}",
+        "javascript": "buildMedias"
+      },
+	    ],
+    "episodes": {
+      "javascript": "Episodes"
+    },
+    "player": {
+      "javascript": "Player"
+    },
+    "search": {
+        "url": "${keyword}",
+        "javascript": "Search"
+    }
+}
