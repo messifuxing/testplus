@@ -61,7 +61,7 @@
         "GEO": "Non-China",
         "Search": true,
         "name": "星视界",
-        "api": "syncnextPlugin://https://raw.githubusercontent.com/icy37785/syncnextPlugin/main/alpha_v2/histar.json"
+        "api": "syncnextPlugin://https://raw.githubusercontent.com/messifuxing/testplus/main/alpha_v2/histar.json"
     },
 	{
         "id": "9ac32fd6-0734-468b-8afc-257b02f30bd8",
