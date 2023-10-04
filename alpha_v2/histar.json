@@ -11,9 +11,9 @@
         "javascript": "buildMedias"
       },
 	  {
-        "key": "sports",
-        "title": "体育",
-        "url": "${pageNumber}-体育",
+        "key": "live",
+        "title": "电视直播",
+        "url": "${pageNumber}-台湾综合",
         "javascript": "buildMedias"
       },
       {
