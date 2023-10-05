@@ -3,6 +3,12 @@
 #EXTINF:-1 group-title="台灣常用台",民視
 https://fsv4.yj011.net/sat/tv051.flv
 
+#EXTINF:-1 group-title="台灣常用台",民視第一
+http://sc2022.stream-link.org/tv2306.php?id=t20
+
+#EXTINF:-1 group-title="台灣常用台",民視台灣
+http://sc2022.stream-link.org/tv2306.php?id=t21
+
 #EXTINF:-1 group-title="台灣常用台",台視
 https://fsv4.yj011.net/sat/tv071.flv
 
@@ -11,6 +17,18 @@ https://fsv4.yj011.net/sat/tv091.flv
 
 #EXTINF:-1 group-title="台灣常用台",華視
 https://fsv4.yj011.net/sat/tv111.flv
+
+#EXTINF:-1 group-title="台灣常用台",三立台灣
+http://sc2022.stream-link.org/tv2306.php?id=t25
+
+#EXTINF:-1 group-title="台灣常用台",三立都會
+http://sc2022.stream-link.org/tv2306.php?id=t26
+
+#EXTINF:-1 group-title="台灣常用台",中天亞洲
+http://sc2022.stream-link.org/tv2306.php?id=t17
+
+#EXTINF:-1 group-title="台灣新聞台",年代新聞台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
 
 #EXTINF:-1 group-title="台灣新聞台",中天新聞台
 http://sc2022.stream-link.org/tv2306.php?id=t03
