@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=https://zh.wikipedia.org/zh-tw/%E6%B0%91%E9%96%93%E5%85%A8%E6%B0%91%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8#/media/File:FTV_Logo.svg group-title="台灣常用台",民視
+#EXTINF:-1 tvg-shift=0 tvg-name= "台灣常用台" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" ,民視
 https://fsv4.yj011.net/sat/tv051.flv
 
 #EXTINF:-1 group-title="台灣常用台",民視第一
