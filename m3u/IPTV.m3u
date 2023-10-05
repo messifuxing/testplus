@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="台灣新聞台",中天新聞台
+http://sc2022.stream-link.org/tv2306.php?id=t03
+
+#EXTINF:-1 group-title="台灣新聞台"寰宇新聞台
+http://sc2022.stream-link.org/tv2306.php?id=t08
+
+#EXTINF:-1 group-title="台灣新聞台"寰宇新聞台2
+http://sc2022.stream-link.org/tv2306.php?id=t09
+
+#EXTINF:-1 group-title="台灣新聞台"TVBS新聞台
+http://sc2022.stream-link.org/tv2306.php?id=t14
+
+#EXTINF:-1 group-title="台灣新聞台"TVBS新聞台2
+TVBS HD,http://sc2022.stream-link.org/tv2306.php?id=t15
+
+#EXTINF:-1 group-title="台灣新聞台"東森新聞台
+http://sc2022.stream-link.org/tv2306.php?id=t01
+
+#EXTINF:-1 group-title="台灣新聞台"中視新聞台
+http://sc2022.stream-link.org/tv2306.php?id=t06
+
+#EXTINF:-1 group-title="台灣新聞台"
+中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
+
+#EXTINF:-1 group-title="台灣新聞台"LIVE三立台
+http://sc2022.stream-link.org/tv2306.php?id=t11
+
 #EXTINF:-1 group-title="TNT SPORT",TNT SPORT",BT SPORT 1 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53850.ts
 
@@ -12,14 +39,86 @@ http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53852.ts
 #EXTINF:-1 group-title="UK SKY SPORT",SKY SPORT FOOTBALL FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53980.ts
 
-#EXTINF:-1 group-title="香港",Now Sports Prime 4k
+#EXTINF:-1 group-title="香港體育台",Now Sports Prime 4k
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/98571
 
-#EXTINF:-1 group-title="香港",Now Sports Prime
+#EXTINF:-1 group-title="香港體育台",Now Sports Prime
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/154733
 
-#EXTINF:-1 group-title="香港",Now Sports 1
+#EXTINF:-1 group-title="香港體育台",Now Sports Prime 2
+https://sc2022.stream-link.org/tv2306.php?id=s01
+
+#EXTINF:-1 group-title="香港體育台",Now Sports 1
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/7172
 
-#EXTINF:-1 group-title="台灣",愛爾達體育2台
+#EXTINF:-1 group-title="台灣體育台",愛爾達體育2台
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+
+#EXTINF:-1 group-title="台灣體育台",緯來體育
+https://sc2022.stream-link.org/tv2306.php?id=s03
+
+#EXTINF:-1 group-title="大陸體育台"五星體育
+https://sc2022.stream-link.org/tv2306.php?id=s02
+
+#EXTINF:-1 group-title="國外體育台",Abu Dhabi Sports 1
+https://sc2022.stream-link.org/tv2306.php?id=s05
+
+#EXTINF:-1 group-title="國外體育台",Abu Dhabi Sports 2
+https://sc2022.stream-link.org/tv2306.php?id=s06
+
+#EXTINF:-1 group-title="國外體育台",Dubai Sports 3
+https://sc2022.stream-link.org/tv2306.php?id=s07
+
+#EXTINF:-1 group-title="國外體育台",Arena sport 2
+https://sc2022.stream-link.org/tv2306.php?id=s08
+
+#EXTINF:-1 group-title="國外體育台",Arena sport 3
+https://sc2022.stream-link.org/tv2306.php?id=s09
+
+#EXTINF:-1 group-title="國外體育台",Arena sport 4
+https://sc2022.stream-link.org/tv2306.php?id=s10
+
+#EXTINF:-1 group-title="國外體育台",Unbeaten
+https://sc2022.stream-link.org/tv2306.php?id=s11
+
+#EXTINF:-1 group-title="國外體育台",FIFA+
+https://sc2022.stream-link.org/tv2306.php?id=s12
+
+#EXTINF:-1 group-title="國外體育台",Tennis Channel
+https://sc2022.stream-link.org/tv2306.php?id=s13
+
+#EXTINF:-1 group-title="國外體育台",beIN SPORTS XTRA
+https://sc2022.stream-link.org/tv2306.php?id=s14
+
+#EXTINF:-1 group-title="國外體育台"beIN SPORTS 1
+https://sc2022.stream-link.org/tv2306.php?id=s15
+
+#EXTINF:-1 group-title="國外體育台"beIN SPORTS 2
+https://sc2022.stream-link.org/tv2306.php?id=s16
+
+#EXTINF:-1 group-title="國外體育台"beIN SPORTS 3
+https://sc2022.stream-link.org/tv2306.php?id=s17
+
+#EXTINF:-1 group-title="國外體育台"beIN SPORTS 4
+https://sc2022.stream-link.org/tv2306.php?id=s18
+
+#EXTINF:-1 group-title="國外體育台"Astro SUPERSPORT
+https://sc2022.stream-link.org/tv2306.php?id=s19
+
+#EXTINF:-1 group-title="國外體育台"Astro SUPERSPORT 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+
+#EXTINF:-1 group-title="國外體育台"Astro SUPERSPORT 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+
+#EXTINF:-1 group-title="國外體育台"Astro SUPERSPORT 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
+
+#EXTINF:-1 group-title="馬來西亞綜合台"Astro AEC
+https://sc2022.stream-link.org/tv2306.php?id=h27
+
+#EXTINF:-1 group-title="馬來西亞綜合台"Astro AEC 2
+https://sc2022.stream-link.org/tv2306.php?id=h25
+
+
+
