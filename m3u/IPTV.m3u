@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="米殼測試",壹新聞
+mitv://generationnexxxt.com:19806/5291fb0eeedb4cd4b2555e2196c56874
+
 #EXTINF:-1 group-title="台灣常用台",民視
 https://fsv4.yj011.net/sat/tv051.flv
 
