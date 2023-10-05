@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="台灣常用台",民視
+https://fsv4.yj011.net/sat/tv051.flv
+
+#EXTINF:-1 group-title="台灣常用台",台視
+https://fsv4.yj011.net/sat/tv071.flv
+
+#EXTINF:-1 group-title="台灣常用台",中視
+https://fsv4.yj011.net/sat/tv091.flv
+
+#EXTINF:-1 group-title="台灣常用台",華視
+https://fsv4.yj011.net/sat/tv111.flv
+
 #EXTINF:-1 group-title="台灣新聞台",中天新聞台
 http://sc2022.stream-link.org/tv2306.php?id=t03
 
