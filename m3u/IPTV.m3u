@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "台灣常用台" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" ,民視
+#EXTINF:-1 group-title="台灣常用台",民視
 https://fsv4.yj011.net/sat/tv051.flv
 
 #EXTINF:-1 group-title="台灣常用台",民視第一
@@ -86,6 +86,9 @@ http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&
 
 #EXTINF:-1 group-title="台灣體育台",緯來體育
 https://sc2022.stream-link.org/tv2306.php?id=s03
+
+#EXTINF:-1 group-title="台灣體育台",緯來體育
+https://cloud.yumixiu768.com/tmp/123.m3u8
 
 #EXTINF:-1 group-title="大陸體育台",五星體育
 https://sc2022.stream-link.org/tv2306.php?id=s02
