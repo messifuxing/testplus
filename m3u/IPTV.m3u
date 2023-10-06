@@ -81,6 +81,9 @@ https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 group-title="香港體育台",Now Sports 1
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/7172
 
+#EXTINF:-1 group-title="台灣體育台",愛爾達體育1台
+http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+
 #EXTINF:-1 group-title="台灣體育台",愛爾達體育2台
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 
