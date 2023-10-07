@@ -93,8 +93,11 @@ https://sc2022.stream-link.org/tv2306.php?id=s03
 #EXTINF:-1 group-title="台灣體育台",緯來體育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 
-#EXTINF:-1 group-title="大陸體育台",五星體育
-https://sc2022.stream-link.org/tv2306.php?id=s02
+#EXTINF:-1 group-title="大陸體育台",米咕體育(女)
+https://pull.dsjcsh.com/live/dps-58330582-merak-ali.m3u8?auth_key=1696703460-0-0-beda33a9dafaf95f5d5e59977abd2e7d
+
+#EXTINF:-1 group-title="大陸體育台",米咕體育(男)
+http://pull.dsjcsh.com/live/dps-58330585-merak-ali.m3u8?auth_key=1696703460-0-0-5a8f03acccd96f49e73cb6f70afe9237
 
 #EXTINF:-1 group-title="國外體育台",Abu Dhabi Sports 1
 https://sc2022.stream-link.org/tv2306.php?id=s05
@@ -155,6 +158,5 @@ https://sc2022.stream-link.org/tv2306.php?id=h27
 
 #EXTINF:-1 group-title="馬來西亞綜合台",Astro AEC 2
 https://sc2022.stream-link.org/tv2306.php?id=h25
-
 
 
