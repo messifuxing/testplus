@@ -1,220 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="台灣常用台",民視
-https://fsv4.yj011.net/sat/tv051.flv
 
-#EXTINF:-1 group-title="台灣常用台",民視第一
-http://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1 group-title="法國",Bein sport 4k
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/110712?play_token=OS3kFV19rF
 
-#EXTINF:-1 group-title="台灣常用台",民視台灣
-http://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1 group-title="法國",Bein sport 4k 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/110712?play_token=S6V8plUUrE
 
-#EXTINF:-1 group-title="台灣常用台",台視
-https://fsv4.yj011.net/sat/tv071.flv
+#EXTINF:-1 group-title="法國",Bein sport 1
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/418?play_token=LkulSgkQka
 
-#EXTINF:-1 group-title="台灣常用台",中視
-https://fsv4.yj011.net/sat/tv091.flv
+#EXTINF:-1 group-title="法國",Bein sport 2
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/416?play_token=Bk4gNXZFPT
 
-#EXTINF:-1 group-title="台灣常用台",華視
-https://fsv4.yj011.net/sat/tv111.flv
+#EXTINF:-1 group-title="法國",Bein sport 3
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/414?play_token=i3EilVSuNu
 
-#EXTINF:-1 group-title="台灣常用台",三立台灣
-http://sc2022.stream-link.org/tv2306.php?id=t25
+#EXTINF:-1 group-title="法國",Canal sport
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1392?play_token=uVNKImh522
 
-#EXTINF:-1 group-title="台灣常用台",三立都會
-http://sc2022.stream-link.org/tv2306.php?id=t26
+#EXTINF:-1 group-title="法國",Canal foot
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1390?play_token=iZla0NfnN7
 
-#EXTINF:-1 group-title="台灣常用台",中天亞洲
-http://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1 group-title="法國",Canal 360
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1469?play_token=55JgLoymjF
 
-#EXTINF:-1 group-title="台灣新聞台",年代新聞台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
-
-#EXTINF:-1 group-title="台灣新聞台",中天新聞台
-http://sc2022.stream-link.org/tv2306.php?id=t03
-
-#EXTINF:-1 group-title="台灣新聞台",寰宇新聞台
-http://sc2022.stream-link.org/tv2306.php?id=t08
-
-#EXTINF:-1 group-title="台灣新聞台",寰宇新聞台2
-http://sc2022.stream-link.org/tv2306.php?id=t09
-
-#EXTINF:-1 group-title="台灣新聞台",TVBS新聞台
-http://sc2022.stream-link.org/tv2306.php?id=t14
-
-#EXTINF:-1 group-title="台灣新聞台",TVBS新聞台2
-http://sc2022.stream-link.org/tv2306.php?id=t15
-
-#EXTINF:-1 group-title="台灣新聞台",東森新聞台
-http://sc2022.stream-link.org/tv2306.php?id=t01
-
-#EXTINF:-1 group-title="台灣新聞台",中視新聞台
-http://sc2022.stream-link.org/tv2306.php?id=t06
-
-#EXTINF:-1 group-title="台灣新聞台",中天亞洲台
-http://sc2022.stream-link.org/tv2306.php?id=t17
-
-#EXTINF:-1 group-title="台灣新聞台",LIVE三立台
-http://sc2022.stream-link.org/tv2306.php?id=t11
-
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT",BT SPORT 1 FHD
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 1 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53850.ts
 
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT",BT SPORT 2 FHD
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 1 FHD 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/370?play_token=4uWmDv9a4e
+
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 2 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53851.ts
 
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT",BT SPORT 3 FHD
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 2 FHD 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/5715?play_token=GMQGljTkZC
+
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 3 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53852.ts
 
-#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORT FOOTBALL FHD
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 3 FHD 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/366?play_token=NF5FkHSCMi
+
+#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 4 FHD
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1743?play_token=0ZSA6c2pAS
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY NEWS
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/372?play_token=DGwdebkxht
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS ARENA
+http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53977.ts
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS F1
+http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53979.ts
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53980.ts
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/6204?play_token=iwutcmJRFI
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD 備用2
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/6204?play_token=CpnZbMmpdU
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS PRIME FHD
+http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53985.ts
+
+#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS PRIME FHD 備用
+http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/372?play_token=DGwdebkxht
 
 #EXTINF:-1 group-title="香港體育台",Now Sports Prime 4k
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/98571
 
-#EXTINF:-1 group-title="香港體育台",Now Sports Prime
+#EXTINF:-1 group-title="香港體育台",Now Sports Prime 1
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/154733
-
-#EXTINF:-1 group-title="香港體育台",Now Sports Prime 2
-https://sc2022.stream-link.org/tv2306.php?id=s01
 
 #EXTINF:-1 group-title="香港體育台",Now Sports 1
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/7172
-
-#EXTINF:-1 group-title="台灣體育台",愛爾達體育1台
-http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-
-#EXTINF:-1 group-title="台灣體育台",愛爾達體育2台
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-
-#EXTINF:-1 group-title="台灣體育台",緯來體育
-https://sc2022.stream-link.org/tv2306.php?id=s03
-
-#EXTINF:-1 group-title="台灣體育台",緯來體育
-https://cloud.yumixiu768.com/tmp/123.m3u8
-
-#EXTINF:-1 group-title="大陸體育台",米咕體育(女)
-https://pull.dsjcsh.com/live/dps-58330582-merak-ali.m3u8?auth_key=1696703460-0-0-beda33a9dafaf95f5d5e59977abd2e7d
-
-#EXTINF:-1 group-title="大陸體育台",米咕體育(男)
-https://pull.dsjcsh.com/live/dps-58330585-merak-ali.m3u8?auth_key=1696703460-0-0-5a8f03acccd96f49e73cb6f70afe9237
-
-#EXTINF:-1 group-title="國外體育台",Abu Dhabi Sports 1
-https://sc2022.stream-link.org/tv2306.php?id=s05
-
-#EXTINF:-1 group-title="國外體育台",Abu Dhabi Sports 2
-https://sc2022.stream-link.org/tv2306.php?id=s06
-
-#EXTINF:-1 group-title="國外體育台",Dubai Sports 3
-https://sc2022.stream-link.org/tv2306.php?id=s07
-
-#EXTINF:-1 group-title="國外體育台",Arena sport 2
-https://sc2022.stream-link.org/tv2306.php?id=s08
-
-#EXTINF:-1 group-title="國外體育台",Arena sport 3
-https://sc2022.stream-link.org/tv2306.php?id=s09
-
-#EXTINF:-1 group-title="國外體育台",Arena sport 4
-https://sc2022.stream-link.org/tv2306.php?id=s10
-
-#EXTINF:-1 group-title="國外體育台",Unbeaten
-https://sc2022.stream-link.org/tv2306.php?id=s11
-
-#EXTINF:-1 group-title="國外體育台",FIFA+
-https://sc2022.stream-link.org/tv2306.php?id=s12
-
-#EXTINF:-1 group-title="國外體育台",Tennis Channel
-https://sc2022.stream-link.org/tv2306.php?id=s13
-
-#EXTINF:-1 group-title="國外體育台",beIN SPORTS XTRA
-https://sc2022.stream-link.org/tv2306.php?id=s14
-
-#EXTINF:-1 group-title="國外體育台",beIN SPORTS 1
-https://sc2022.stream-link.org/tv2306.php?id=s15
-
-#EXTINF:-1 group-title="國外體育台",beIN SPORTS 2
-https://sc2022.stream-link.org/tv2306.php?id=s16
-
-#EXTINF:-1 group-title="國外體育台",beIN SPORTS 3
-https://sc2022.stream-link.org/tv2306.php?id=s17
-
-#EXTINF:-1 group-title="國外體育台",beIN SPORTS 4
-https://sc2022.stream-link.org/tv2306.php?id=s18
-
-#EXTINF:-1 group-title="國外體育台",Astro SUPERSPORT
-https://sc2022.stream-link.org/tv2306.php?id=s19
-
-#EXTINF:-1 group-title="國外體育台",Astro SUPERSPORT 2
-https://sc2022.stream-link.org/tv2306.php?id=s20
-
-#EXTINF:-1 group-title="國外體育台",Astro SUPERSPORT 3
-https://sc2022.stream-link.org/tv2306.php?id=s21
-
-#EXTINF:-1 group-title="國外體育台",Astro SUPERSPORT 4
-https://sc2022.stream-link.org/tv2306.php?id=s22
-
-#EXTINF:-1 group-title="馬來西亞綜合台",Astro AEC
-https://sc2022.stream-link.org/tv2306.php?id=h27
-
-#EXTINF:-1 group-title="馬來西亞綜合台",Astro AEC 2
-https://sc2022.stream-link.org/tv2306.php?id=h25
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 1
-DAZN 1 英超 1080P
-http://317446923782228390.of23103.xyz:80/play/vi73988/KP98A4VqKQRF/228390.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 1
-DAZN 1 英超  1080P
-http://316541306651228390.of23103.xyz:80/play/MorenosShows/Nil03092023/228390.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 1
-DAZN 1 英超  1080P
-http://316541306651373766.of23103.xyz:80/play/MorenosShows/Nil03092023/373766.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 2
-DAZN 2 英超  1080P
-http://317446923782228389.of23103.xyz:80/play/vi73988/KP98A4VqKQRF/228389.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 2
-DAZN 2 英超  1080P
-http://316541306651228389.of23103.xyz:80/play/MorenosShows/Nil03092023/228389.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 3
-DAZN 3 英超  1080P
-http://316541306651228393.of23103.xyz:80/play/MorenosShows/Nil03092023/228393.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 3
-DAZN 3 英超  1080P
-http://317446923782228393.of23103.xyz:80/play/vi73988/KP98A4VqKQRF/228393.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 4
-DAZN 4 英超  1080P(H265)
-http://317446923782228392.of23103.xyz:80/play/vi73988/KP98A4VqKQRF/228392.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 4
-DAZN 4 英超  1080P
-http://317446923782228396.of23103.xyz:80/play/vi73988/KP98A4VqKQRF/228396.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 4
-DAZN 4 英超  1080P
-http://316541306651228392.of23103.xyz:80/play/MorenosShows/Nil03092023/228392.ts
-
-#EXTINF:-1 group-title="DAZN 英超",DAZN 4
-DAZN 4 英超  1080P
-http://316541306651228396.of23103.xyz:80/play/MorenosShows/Nil03092023/228396.ts
-
-#EXTINF:-1 group-title="DAZN 西甲",DAZN 1 LALIGA
-DAZN 2 西甲 1080P
-http://316541306651320782.of23103.xyz:80/play/MorenosShows/Nil03092023/320782.ts
-
-#EXTINF:-1 group-title="DAZN 西甲",DAZN 2 LALIGA
-DAZN 2 西甲 1080P
-http://316541306651320780.of23103.xyz:80/play/MorenosShows/Nil03092023/320780.ts
-
-#EXTINF:-1 group-title="DAZN F1 ",DAZN F1
-DAZN F1 1080P
-http://316541306651318564.of23103.xyz:80/play/MorenosShows/Nil03092023/318564.ts
-
-#EXTINF:-1 group-title="DAZN F1 ",DAZN F1
-DAZN F1 1080P
-http://316541306651165418.of23103.xyz:80/play/MorenosShows/Nil03092023/165418.ts
