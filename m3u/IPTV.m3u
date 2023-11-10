@@ -1,53 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
 
-#EXTINF:-1 group-title="法國",Bein sport 4k
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/110712?play_token=OS3kFV19rF
 
-#EXTINF:-1 group-title="法國",Bein sport 4k 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/110712?play_token=S6V8plUUrE
+#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
 
-#EXTINF:-1 group-title="法國",Bein sport 1
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/418?play_token=LkulSgkQka
 
-#EXTINF:-1 group-title="法國",Bein sport 2
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/416?play_token=Bk4gNXZFPT
+#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
 
-#EXTINF:-1 group-title="法國",Bein sport 3
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/414?play_token=i3EilVSuNu
 
-#EXTINF:-1 group-title="法國",Canal sport
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1392?play_token=uVNKImh522
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
 
-#EXTINF:-1 group-title="法國",Canal foot
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1390?play_token=iZla0NfnN7
 
-#EXTINF:-1 group-title="法國",Canal 360
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1469?play_token=55JgLoymjF
+#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+
+
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
+
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+
+
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
+
+
+#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
+
+
+#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
 
 #EXTINF:-1 group-title="TNT SPORT",TNT SPORT 1 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53850.ts
 
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 1 FHD 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/370?play_token=4uWmDv9a4e
-
 #EXTINF:-1 group-title="TNT SPORT",TNT SPORT 2 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53851.ts
 
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 2 FHD 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/5715?play_token=GMQGljTkZC
-
 #EXTINF:-1 group-title="TNT SPORT",TNT SPORT 3 FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53852.ts
-
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 3 FHD 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/366?play_token=NF5FkHSCMi
-
-#EXTINF:-1 group-title="TNT SPORT",TNT SPORT 4 FHD
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/1743?play_token=0ZSA6c2pAS
-
-#EXTINF:-1 group-title="UK SKY SPORT",SKY NEWS
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/372?play_token=DGwdebkxht
 
 #EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS ARENA
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53977.ts
@@ -58,17 +57,8 @@ http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53979.ts
 #EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53980.ts
 
-#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/6204?play_token=iwutcmJRFI
-
-#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS FOOTBALL FHD 備用2
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/6204?play_token=CpnZbMmpdU
-
 #EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS PRIME FHD
 http://wayforward.xyz:25461/live/BTjstevens/BTtv101010/53985.ts
-
-#EXTINF:-1 group-title="UK SKY SPORT",SKY SPORTS PRIME FHD 備用
-http://magm1giillmig.funtogether.xyz:8080/qPecvRauym/UjnvpWGjXu/372?play_token=DGwdebkxht
 
 #EXTINF:-1 group-title="香港體育台",Now Sports Prime 4k
 http://xc.tvset.top:80/BrentonMother/Hy6NnS1WGM/98571
