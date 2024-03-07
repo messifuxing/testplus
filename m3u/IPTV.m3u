@@ -9,5 +9,8 @@ http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports3.png" group-title="台灣電視",愛爾達體育三台
 http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
 
-#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育4" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports4.png" group-title="台灣電視",愛爾達體育四台
+#EXTINF:-1 tvg-id="203" tvg-name="爱尔达体育4" tvg-logo="https://mod.cht.com.tw/tv/channel.php" group-title="台灣電視",愛爾達體育四台
 http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
+
+
+https://mod.cht.com.tw/tv/channel.php?id=203
