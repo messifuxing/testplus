@@ -541,3 +541,15 @@ https://epg.pw/stream/2e262ff511dc328ff11f8cfb729ba3d73ab32030efccee98ce4c20a379
 https://epg.pw/stream/bae612be8806fa2ac65a01e41b1e5fb0a67ac33333f529bdd75d5e4a9e391863.ctv
 #EXTINF:0,FOX Sports 3
 https://epg.pw/stream/bb32750d200e34ae4a5d669f7826b1ee3b0ef60c88e2127de489955b898c5d78.ctv
+#EXTINF:0,Now Sports 618 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=2
+#EXTINF:0,Now Sports 618 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=3
+#EXTINF:0,Now Sports 619 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=2
+#EXTINF:0,Now Sports 619 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-619&xl=3
+#EXTINF:0,Now Lucky 688 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=2
+#EXTINF:0,Now Lucky 688 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688&xl=3
