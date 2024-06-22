@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",華視
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",華視新聞網
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719052583/ei/x1R2ZtfvB6fy7OsPoe-8qA0/ip/59.127.191.145/id/wM0g8EoUZ_E.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/spc/UWF9f5lj6tgM8qgMXWoxk8eOOIPGu-w8aRBYiYP1b9pixyMRbq7o6YYi7axOnI4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMp7raRXT6GT5EWk6RFg-JRRXi31tqZHZ0AfpilCFfuyAiEApR9PQKRmyYxE48FTfpMVUhVngrQpUFnvpykMN1PyMb4%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",三立 LIVE
