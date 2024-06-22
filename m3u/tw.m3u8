@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719053099/ei/y1Z2Zr2qLu-xs8IPjry5gAw/ip/59.127.191.145/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f06U5kquag_7-RPoVMhcV53Gs3RKrcB4wFG1QZNUENx67J8QRTWZAyyvV_w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMLR7m0iCtMrd6dPvDtpoAX2TFaDXBo4Z4LnYVXdnM1qAiBc6s2VI9AkSMezadXiiGAyeZDQcH1vJGuAFmMiE6T35Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
