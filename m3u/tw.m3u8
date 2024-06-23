@@ -42,17 +42,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",愛爾達體育1台
-https://cdn.gogogo.eu.org/live/elta1.m3u8?token=x4uArj5ZmNsUZYcOLLfQCQ&expires=1719077617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",ELEVEN體育1台（DAZN 1）
+https://cdn.gogogo.eu.org/live/eleven1.m3u8?token=gM2Ni7hsdZNbNHvNZIivPw&expires=1719125570
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",愛爾達體育2台
-https://cdn.gogogo.eu.org/live/elta2.m3u8?token=rszRyo_AWudTOIFkdCBC4Q&expires=1719077655
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",愛爾達體育3台
-https://cdn.gogogo.eu.org/live/elta3.m3u8?token=SOo7siIJWNlCkk3T99wC2Q&expires=1719077671
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",愛爾達體育4台
-https://cdn.gogogo.eu.org/live/elta4.m3u8?token=Ft5ApDmHf6QFhLxA76Ltlw&expires=1719077704
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",緯來體育台
-https://cdn.gogogo.eu.org/live/videoland-sports.m3u8?token=gB5YklVsvXr5MLDl0xm3gA&expires=1719078054
