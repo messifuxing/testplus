@@ -3,14 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720353608/ei/6C6KZsnFBZOe7OsP_qOVwA4/ip/59.127.191.145/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASM2fm6CbxFTmmWJUvTcc8_hG01PPvOF_7eGeRC3pxxIQ_JDc4mAAbLgK4Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKT5HRJyk6q2NuKN0vGi36UaT8k4CKHohj2IVr7UtsTQCIE9ptmTTs_OO6kzFLjLYcrcqUGO2Zsqocbw2B5lOzi2z/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞台
-https://www.youtube.com/embed/xL0ch83RAK8?si=kZMvKfYFvJkklzUG
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中視新聞台
-https://www.youtube.com/embed/rO9tl-LyaZo?si=3zz5o2XCzIVlbljV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720367935/ei/32aKZtOeF4qGs8IP_fOXkA0/ip/59.127.191.145/id/rO9tl-LyaZo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198108/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASeTa4NZJXR4V_-_pAs2Ua6QynJSSNhHcFC6gl--TG99FVFDOGfLkS7aPuo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVUr7WbT-mMWJObncZTMjZjc9Dh2hLAreOfZs0TGDFvYCIQCMQOy7_6N4gMOJ0mXN1AGWt-fLLgrw_sUWoqP03HlYWg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",華視新聞台
-https://www.youtube.com/embed/wM0g8EoUZ_E?si=2KJ4COg2fCGrBkHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720367971/ei/A2eKZsi1F-z67OsPr-mVqAs/ip/59.127.191.145/id/wM0g8EoUZ_E.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198108/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/spc/NO7bAbLx-dwttVRdUCe4We16tcHlg7ID3TC_hPMFkFYyXSXNwcozmgpEFQ_l07M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO6WoKrC_i4jo5Lnqwqge1vipaUhmyTzNfXlcvCpZX81AiEA_RyMEXWPYrCU-lEVlsJa7mRmh140GtQIg7ozl5rdgJU%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",東森新聞台
 https://www.youtube.com/embed/V1p33hqPrUk?si=K3NVhrsGLSk4HhTS
@@ -28,7 +25,7 @@ https://www.youtube.com/embed/6IquAgfvYmc?si=tdi7Jy-9XAKAryHh
 https://www.youtube.com/embed/w87VGpgd90U?si=7JtFZ9TUDHQIcDhb
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中天新聞
-https://www.youtube.com/embed/oIgbl7t0S_w?si=5UzHN7fq8z09ybZx
+https://www.youtube.com/embed/oIgbl7t0S_w?si=5UzHN7fq8z09ybZx  
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",SPORT ASIA
 https://www.youtube.com/embed/YzxjcaDW-I4?si=-kHjZnhzjF3Bo-ko
