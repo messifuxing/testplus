@@ -1,47 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719053099/ei/y1Z2Zr2qLu-xs8IPjry5gAw/ip/59.127.191.145/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f06U5kquag_7-RPoVMhcV53Gs3RKrcB4wFG1QZNUENx67J8QRTWZAyyvV_w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMLR7m0iCtMrd6dPvDtpoAX2TFaDXBo4Z4LnYVXdnM1qAiBc6s2VI9AkSMezadXiiGAyeZDQcH1vJGuAFmMiE6T35Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s48-c-k-c0x00ffffff-no-rj" group-title="新聞",台視新聞台HD 24 小時線上直播
+https://www.youtube.com/watch?v=xL0ch83RAK8&feature=player_embedded
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中視新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",華視新聞網
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719052583/ei/x1R2ZtfvB6fy7OsPoe-8qA0/ip/59.127.191.145/id/wM0g8EoUZ_E.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/spc/UWF9f5lj6tgM8qgMXWoxk8eOOIPGu-w8aRBYiYP1b9pixyMRbq7o6YYi7axOnI4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMp7raRXT6GT5EWk6RFg-JRRXi31tqZHZ0AfpilCFfuyAiEApR9PQKRmyYxE48FTfpMVUhVngrQpUFnvpykMN1PyMb4%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",民視新聞台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",三立 LIVE
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",三立新聞 inews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",東森新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719080429/ei/jcF2ZsGJCeyq7OsPnaqusAg/ip/59.127.191.145/id/LuQ4S-i5zoE.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fygOOgO7P8-2A55UgTQ6vCSS6EagryCTw4YaiFMbkbtZMVUy/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMMSiSSB2Vhmzpr0kpzfjDfxaxfTGZvHfR6obbF-FzTqAiBysC4i61bWwpvxGuNP3fAuV3WDZOxSQKgmXh5XDmbMhQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",東森財經新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",寰宇新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中天新聞
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/4gtv-4gtv009-avc1_3000000=8-mp4a_136000_zho=7.m3u8?token=3idJZ-xRchYd2UXJe-mLsw&expires=1719154064&token1=vzkNhm0DcEESotLBLWNDBg&expires1=1719154064
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中天亞洲台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719080719/ei/r8J2Zt35Avyi1d8P88i_kAk/ip/59.127.191.145/id/s2waUruqze4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/spc/UWF9f-RvCz04ffhbirAkHBG3zfDIFRIBTPPzaMFjtNznVEmSysQCiCyEwgriYcM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCB2co0w-lYEQANMoBfRkV--j6GPUDGcGKPRVJGY51KUCIQC4KTXnbmH6_EbykQNiJoouFVDGnTWqoj-sqsD4EA7bfg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="新聞",TVBS新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",鏡新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",ELEVEN體育1台（DAZN 1）
-https://cdn.gogogo.eu.org/live/eleven1.m3u8?token=gM2Ni7hsdZNbNHvNZIivPw&expires=1719125570
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞台HD 24 小時線上直播
