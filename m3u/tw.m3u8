@@ -2,3 +2,33 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s48-c-k-c0x00ffffff-no-rj" group-title="新聞",台視新聞台HD 24 小時線上直播
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720353608/ei/6C6KZsnFBZOe7OsP_qOVwA4/ip/59.127.191.145/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASM2fm6CbxFTmmWJUvTcc8_hG01PPvOF_7eGeRC3pxxIQ_JDc4mAAbLgK4Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKT5HRJyk6q2NuKN0vGi36UaT8k4CKHohj2IVr7UtsTQCIE9ptmTTs_OO6kzFLjLYcrcqUGO2Zsqocbw2B5lOzi2z/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞台
+https://www.youtube.com/embed/xL0ch83RAK8?si=kZMvKfYFvJkklzUG
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",中視新聞台
+https://www.youtube.com/embed/rO9tl-LyaZo?si=3zz5o2XCzIVlbljV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",華視新聞台
+https://www.youtube.com/embed/wM0g8EoUZ_E?si=2KJ4COg2fCGrBkHD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",東森新聞台
+https://www.youtube.com/embed/V1p33hqPrUk?si=K3NVhrsGLSk4HhTS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",三立新聞SET+台
+https://www.youtube.com/embed/oZdzzvxTfUY?si=xoAkomcntvz1A1_r
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",鏡新聞
+https://www.youtube.com/embed/5n0y6b0Q25o?si=IqOBxOHPwpCPVa2B
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",寰宇新聞台
+https://www.youtube.com/embed/6IquAgfvYmc?si=tdi7Jy-9XAKAryHh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",寰宇新聞 台灣台
+https://www.youtube.com/embed/w87VGpgd90U?si=7JtFZ9TUDHQIcDhb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新聞",台視新聞台
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育",SPORT ASIA
+https://www.youtube.com/embed/YzxjcaDW-I4?si=-kHjZnhzjF3Bo-ko
