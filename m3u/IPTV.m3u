@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天新聞台 (1080p)
+https://list.iptvcat.com/my_list/s/e15cd6dc794e22e2e01b9eb62b7aeb4e.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
 
@@ -25,6 +28,21 @@ http://mytvhd.ath.cx:8080/live/dmtn/8juZjFZ@5ZfzpZkF/4610.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="美國體育",TSN-3
 http://6oclock.xyz:80/live/Pumpkin1/Pumpkin1/21003.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Setanta Sports 1 (1080P)
+http://45.93.46.27:8887/8565/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Eurosport 1 (4K)
+http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Eurosport 2 (4K)
+https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Eleven Sports 1 (1080P)
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Eleven Sports 4 (1080P)
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港體育", Now Sports 618 欧洲杯
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-618&xl=2
