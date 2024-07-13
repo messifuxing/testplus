@@ -29,6 +29,15 @@ http://mytvhd.ath.cx:8080/live/dmtn/8juZjFZ@5ZfzpZkF/4610.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="美國體育",TSN-3
 http://6oclock.xyz:80/live/Pumpkin1/Pumpkin1/21003.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="美國體育",FOX-Sports1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/3130
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="美國體育",FOX-Sports2
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/3129
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="美國體育",BeIN Sports 1
+http://yesimes.oknirvana.club:8880/D12m2446/47772223/3159
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="國外體育",Setanta Sports 1 (1080P)
 http://45.93.46.27:8887/8565/video.m3u8
 
