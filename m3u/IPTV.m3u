@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://m.youtube.com/
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球1台 HD
 http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
@@ -66,9 +67,6 @@ http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達綜合 HD
 http://extraott.com:80/live/7921751389/6097373662/5541.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",台視新聞台HD 
-https://m.youtube.com/watch?v=xL0ch83RAK8&pp=ygUV44SS44Sn44Sj5paw6IGe55u05pKt
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天亞洲台 HD
 http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 
@@ -89,6 +87,9 @@ https://www.youtube.com/embed/oZdzzvxTfUY?si=xoAkomcntvz1A1_r
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",鏡新聞台
 https://www.youtube.com/embed/5n0y6b0Q25o?si=IqOBxOHPwpCPVa2B
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",台視新聞台HD 
+https://m.youtube.com/watch?v=xL0ch83RAK8&pp=ygUV44SS44Sn44Sj5paw6IGe55u05pKt
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
