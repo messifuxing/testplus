@@ -66,6 +66,9 @@ http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達綜合 HD
 http://extraott.com:80/live/7921751389/6097373662/5541.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",台視新聞台HD 
+https://m.youtube.com/watch?v=xL0ch83RAK8&pp=ygUV44SS44Sn44Sj5paw6IGe55u05pKt
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天亞洲台 HD
 http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 
