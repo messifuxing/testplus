@@ -1,5 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球1台 HD
+http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球2台 HD
+http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯體育1台 HD
+http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯體育2台 HD
+http://extraott.com:80/live/7921751389/6097373662/5557.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",愛爾達體育2台 HD
+http://extraott.com:80/live/7921751389/6097373662/5545.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",愛爾達體育3台 HD
+http://extraott.com:80/live/7921751389/6097373662/5544.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",亞洲美食台 HD
+http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",亞洲旅遊台 HD
+http://extraott.com:80/live/7921751389/6097373662/5565.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",八大戲劇 HD
+http://extraott.com:80/live/7921751389/6097373662/5564.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",八大娛樂 HD
+http://extraott.com:80/live/7921751389/6097373662/5563.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",八大第一 HD
+http://extraott.com:80/live/7921751389/6097373662/5562.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",八大綜合 HD
+http://extraott.com:80/live/7921751389/6097373662/5561.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",中天娛樂 HD
+http://extraott.com:80/live/7921751389/6097373662/5554.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",中天綜合 HD
+http://extraott.com:80/live/7921751389/6097373662/5552.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",華視 HD
+http://extraott.com:80/live/7921751389/6097373662/5551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",公視1台 HD
+http://extraott.com:80/live/7921751389/6097373662/5550.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",公視2台 HD
+http://extraott.com:80/live/7921751389/6097373662/5549.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",大愛2台 HD
+http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",大愛1台 HD
+http://extraott.com:80/live/7921751389/6097373662/5547.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達戲劇 HD
+http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達影劇 HD
+http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達綜合 HD
+http://extraott.com:80/live/7921751389/6097373662/5541.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天亞洲台 HD
+http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森亞洲 HD
+http://extraott.com:80/live/7921751389/6097373662/5540.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森財經 HD
+http://extraott.com:80/live/7921751389/6097373662/5539.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天新聞台
 https://list.iptvcat.com/my_list/s/e15cd6dc794e22e2e01b9eb62b7aeb4e.m3u8
 
