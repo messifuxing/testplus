@@ -193,13 +193,10 @@ https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159
 https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5-1
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=aa173201e6b845bbee67f1b26f1a348b9e154cf79c6d52eef85063a55d21c61b_1720504563_604800&fromCDN=ws
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5-2
-http://710120.tv.netsite.cc/proxy/1233541493/1233541493.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8?2024
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港新聞",明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
