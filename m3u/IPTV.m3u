@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://m.youtube.com/watch
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球1台 HD
 http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
@@ -67,35 +66,89 @@ http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣綜藝",愛爾達綜合 HD
 http://extraott.com:80/live/7921751389/6097373662/5541.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天亞洲台 HD
-http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",民視新聞台HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ftvnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森亞洲 HD
-http://extraott.com:80/live/7921751389/6097373662/5540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",公視新聞網
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ptsnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森財經 HD
-http://extraott.com:80/live/7921751389/6097373662/5539.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",台視新聞HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ttvnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天新聞台
-https://list.iptvcat.com/my_list/s/e15cd6dc794e22e2e01b9eb62b7aeb4e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中視新聞HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctvnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",Japan News Digest8
-https://anym3u8player.com/youtube.php/id/669a891531bde.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",三立 SET INEWS
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/setinews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",TVBS NEWS新聞台
-https://anym3u8player.com/youtube.php/id/669a8a6b51b07.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",三立 SET NEWS+
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/setnewsplus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",三立新聞SET+台
-https://www.youtube.com/embed/oZdzzvxTfUY?si=xoAkomcntvz1A1_r
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",TVBS NEW
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/tvbsnewslive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森新聞 24小時
-https://anym3u8player.com/youtube.php/id/669a8a973f8db.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",寰宇新聞台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/globalnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",鏡新聞台
-https://www.youtube.com/embed/5n0y6b0Q25o?si=IqOBxOHPwpCPVa2B
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",寰宇新聞台灣台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/globalnewstaiwan.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",台視新聞台HD 
-http://www.youtube.com/embed/watch?v=oIgbl7t0S_w
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",寰宇財經台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/globalfinancialnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森財經新聞 EBC HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",東森財經新聞 EBC HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcfinancialnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",鏡新聞
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/mnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",iSEE夢想家
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/8worldsg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天新聞
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctinews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣新聞",中天2台 CTI+
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctiplus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",台視
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ttvclassic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",中視HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctvclassic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",中視
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctvclassicdrama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",中視MIT台灣誌
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/madeintaiwan.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",華視HD
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ctsdrama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",TAIWAN +
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/taiwanpluslive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",GVT八大電視
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/gtvdrama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",MOMO 1台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/momoch48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",MOMO 2台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/momoch35.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",大愛
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/daaitelevision.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",大愛2台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/daaitelevision2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣電視",新唐人亞太台
+https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ntdaptv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
