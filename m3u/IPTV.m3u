@@ -193,24 +193,9 @@ https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159
 https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5
-https://stream1.freetv.fun/b2de91ed47205062611a91136b7ce364600019b8c229ec8a8df1700a28d6a395.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5備用
-http://119.39.97.2:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5備用2
 https://stream1.freetv.fun/cctv-5-18.ctv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5+
-https://stream1.freetv.fun/cctv-5-plus-12.ctv
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5+備用
-http://124.228.160.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5+備用2
-https://stream1.freetv.fun/7e18319834d88b172f57a3a019b567924e6a1e301d05029af46a4f95fcf9531c.ctv
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="大陸體育",CCTV5+備用3
 https://stream1.freetv.fun/cctv-5-plus-11.ctv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港新聞",明珠台
