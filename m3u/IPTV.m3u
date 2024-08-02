@@ -1,7 +1,119 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="巴黎奧運",巴黎奧運台
-https://www.dussl.icu/Aoyun_dussl.m3u
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="巴黎奧運",CCTV5
+https://api.btbt.im/live?id=cctv5
+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="巴黎奧運",CCTV5+
+https://api.btbt.im/live?id=cctv5plus
+
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="巴黎奧運",CCTV16
+https://api.btbt.im/live?id=cctv16
+
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="巴黎奧運",CCTV8K
+https://www.dussl.icu/8k.php
+
+#EXTINF:-1,tvg-id="ELTA體育-1台" tvg-name="ELTA 體育 1 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运1台
+https://api.btbt.im/live?id=elta-oly1
+
+#EXTINF:-1,tvg-id="ELTA體育-2台" tvg-name="ELTA 體育 2 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运2台
+https://api.btbt.im/live?id=elta-oly2
+
+#EXTINF:-1,tvg-id="ELTA體育-3台" tvg-name="ELTA 體育 3 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运3台
+https://api.btbt.im/live?id=elta-oly3
+
+#EXTINF:-1,tvg-id="ELTA體育-4台" tvg-name="ELTA 體育 4 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运4台
+https://api.btbt.im/live?id=elta-oly4
+
+#EXTINF:-1,tvg-id="ELTA 體育 5 台" tvg-name="ELTA 體育 5 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运5台
+https://api.btbt.im/live?id=elta-oly5
+
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运6台
+https://api.btbt.im/live?id=elta-oly6
+#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="巴黎奧運",ELTA奥运7台
+https://api.btbt.im/live?id=elta-oly7
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 1
+https://api.btbt.im/live?id=astro-oly1
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 2
+https://api.btbt.im/live?id=astro-oly2
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 3
+https://api.btbt.im/live?id=astro-oly3
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 4
+https://api.btbt.im/live?id=astro-oly4
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 5
+https://api.btbt.im/live?id=astro-oly5
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 6
+https://api.btbt.im/live?id=astro-oly6
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 7
+https://api.btbt.im/live?id=astro-oly7
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 8
+https://api.btbt.im/live?id=astro-oly8
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 9
+https://api.btbt.im/live?id=astro-oly9
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 10
+https://api.btbt.im/live?id=astro-oly10
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 11
+https://api.btbt.im/live?id=astro-oly11
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 12
+https://api.btbt.im/live?id=astro-oly12
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 13
+https://api.btbt.im/live?id=astro-oly13
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 14
+https://api.btbt.im/live?id=astro-oly14
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 15
+https://api.btbt.im/live?id=astro-oly15
+#EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="巴黎奧運",Astro OLY 16
+https://api.btbt.im/live?id=astro-oly16
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="myTV SUPER Olympics 801" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="巴黎奧運", 奧運801台
+https://tvb.mytvsuper.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="myTV SUPER Olympics 802" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="巴黎奧運", 奧運802台
+https://tvb.mytvsuper.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="myTV SUPER Olympics 803" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="港澳台運", 奧運803台
+https://tvb.mytvsuper.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="myTV SUPER Olympics 804" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="巴黎奧運", 奧運804台
+https://tvb.mytvsuper.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="myTV SUPER Olympics 805" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="港澳台運", 奧運805台
+https://tvb.mytvsuper.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="myTV SUPER Olympics 806" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="巴黎奧運", 奧運806台
+https://tvb.mytvsuper.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="myTV SUPER Olympics 807" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="巴黎奧運", 奧運807台
+https://tvb.mytvsuper.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="myTV SUPER Olympics 808" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="巴黎奧運", 奧運808台
+https://tvb.mytvsuper.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="myTV SUPER Olympics 809" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="巴黎奧運", 奧運809台
+https://tvb.mytvsuper.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="myTV SUPER Olympics 810" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="巴黎奧運", 奧運810台
+https://tvb.mytvsuper.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="myTV SUPER Olympics 811" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="巴黎奧運", 奧運811台
+https://tvb.mytvsuper.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="myTV SUPER Olympics 812" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="巴黎奧運", 奧運812台
+https://tvb.mytvsuper.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="myTV SUPER Olympics 813" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="巴黎奧運", 奧運813台
+https://tvb.mytvsuper.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="myTV SUPER Olympics 814" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="巴黎奧運", 奧運814台
+https://tvb.mytvsuper.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="myTV SUPER Olympics 815" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="巴黎奧運", 奧運815台
+https://tvb.mytvsuper.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="myTV SUPER Olympics 816" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="巴黎奧運", 奧運816台
+https://tvb.mytvsuper.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="myTV SUPER Olympics News" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="巴黎奧運", 奧運817台
+https://tvb.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://api.btbt.im/live?id=mytvsuper-oly817
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球1台 HD
 http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
