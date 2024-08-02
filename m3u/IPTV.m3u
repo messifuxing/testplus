@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="巴黎奧運",巴黎奧運台
+https://www.dussl.icu/Aoyun_dussl.m3u
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台灣體育",博斯高球1台 HD
 http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
 
