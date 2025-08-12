@@ -25,12 +25,6 @@
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/age.js"
         },
         {
-            "name": "4k-av無廣告有時會lag",
-            "type": 3,
-            "api": "csp_4kav",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
-        },
-        {
             "name": "老地方無廣告",
             "type": 3,
             "api": "csp_laodifang",
