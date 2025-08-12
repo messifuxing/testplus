@@ -31,7 +31,7 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
     },
     {
-      "name": "牛牛资源廣告插播720",
+      "name": "牛牛资源廣告插播720p",
       "type": 1,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
@@ -41,7 +41,7 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod"
     },
     {
-      "name": "愛奇藝資源",
+      "name": "愛奇藝資源720p",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod"
     },
