@@ -28,7 +28,7 @@
      {
       "name": "電影天堂資源網無廣告",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml"
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
     },
     ]
 }
