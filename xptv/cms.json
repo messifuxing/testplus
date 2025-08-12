@@ -1,1 +1,24 @@
-
+{
+  "sites": [
+    {
+      "name": "天涯資源網無廣告",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "百度資源網無廣告",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "茅台資源網無廣告有時會lag",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "黑木耳|点播",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+    {
+    ]
+}
