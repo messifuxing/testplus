@@ -30,5 +30,10 @@
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
     },
+    {
+      "name": "牛牛资源無廣告",
+      "type": 1,
+      "api": " https://api.niuniuzy.me/api.php/provide/vod/"
+    },
     ]
 }
