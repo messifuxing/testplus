@@ -20,11 +20,10 @@
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
     },
-     {
-            "name": "急速資源網無廣告",
-            "type": 3,
-            "api": "csp_laodifang",
-            "ext": "https://jszyapi.com/api.php/provide/vod/"
-     },
+    {
+      "name": "急速資源網無廣告",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/"
+    },
     ]
 }
