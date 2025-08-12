@@ -33,7 +33,12 @@
     {
       "name": "牛牛资源廣告插播720",
       "type": 1,
-      "api": " https://api.niuniuzy.me/api.php/provide/vod/"
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "貓眼資源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod"
     },
     ]
 }
